@@ -1,0 +1,27 @@
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+button{
+    border-radius: 55px;
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+    border-color: black;
+    border-style: groove;
+    
+}
+h3{
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 90px;
+}
+.divi{
+    display: flex;
+    justify-content:safe
+}
